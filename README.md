@@ -30,7 +30,7 @@ I believe that true efficiency is found at the intersection of high-level abstra
 #### [Medusa Parallel Decoding] — LLM Optimization
 *   **The Goal:** Pushing the limits of GPU utilization.
 *   **The Tech:** Performance benchmarking and kernel optimization on local and cloud hardware.
-*   **Technical Detail:** Investigated memory-bandwidth bottlenecks, resulting in a **7x speedup on T4 hardware** and a 1.32x performance boost on local 6GB GPUs. Focused on reducing latency in multi-token decoding paths.
+*   **Technical Detail:** Investigated memory-bandwidth bottlenecks, resulting in a **1.6x speedup on T4 hardware** and a 1.32x performance boost on local 6GB GPUs. Focused on reducing latency in multi-token decoding paths.
 
 #### [Competitive Programming] — Algorithmic Rigor
 *   **The Goal:** Mastering complexity.
@@ -46,14 +46,13 @@ I believe that true efficiency is found at the intersection of high-level abstra
 ---
 
 ### 📊 GitHub Activity
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IoRagas&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IoRagas&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ### 📫 Let's Connect
-*   **LinkedIn:** [www.linkedin.com/in/sagar-mehmood-1b841821a]
-*   **Email:** [sagarmehmood.cs@gmail.com]
+*   **LinkedIn:** www.linkedin.com/in/sagar-mehmood-1b841821a
+*   **Email:** sagarmehmood.cs@gmail.com
 *   **Location:** Islamabad, Pakistan
 
 > *“I am driven by the ‘why’ behind every niche detail. Always eager to explore new concepts and view complex problems from multiple architectural angles.”*
